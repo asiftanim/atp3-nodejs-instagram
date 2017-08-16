@@ -1,0 +1,29 @@
+.menubar{
+  padding-top: 20px;
+}
+
+.menubar .fa{
+  font-size: 35px;
+  color: black;
+}
+
+.menubar .fa:hover{
+  color: red;
+  transition: all 0.3s;
+}
+
+.post1{
+  display: block;
+  height: 100vh;
+  background-color: #fafafa;
+}
+
+.post .proimage{
+  height:60px;
+  width:60px;
+  border-radius: 50%;
+}
+
+.post .mainimage{
+  width: 700px;
+}
